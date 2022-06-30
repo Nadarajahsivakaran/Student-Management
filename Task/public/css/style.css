@@ -1,0 +1,30 @@
+h4{
+   color: white;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.add{
+ float: right;
+ margin-top: 10px;
+ margin-right: 30px;
+}
+
+h1{
+    color:green;
+    padding: 10px;
+}
+
+.filter{
+    padding: 20px;
+}
+
+.reportBtn{
+    margin-top: 30px;
+}
+
+
+
+
